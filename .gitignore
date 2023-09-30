@@ -1,0 +1,79 @@
+# Ignore compiled Java classes
+*.class
+
+# Ignore compiled JSP files
+*.jsp.class
+
+# Ignore build and generated directories
+/target/
+/web/target/
+/build/
+
+# Ignore deployment directories and files
+/.idea/
+/.classpath
+/.project
+/.settings/
+/*.iml
+/.metadata/
+/.webproject
+
+# Ignore logs and temporary files
+/logs/
+*.log
+*.log.*
+*.tmp
+*.swp
+
+# Ignore user-specific files
+/.DS_Store
+/.synchronized
+
+# Ignore Maven-specific files
+/target/
+.idea/
+*.iml
+
+# Ignore Eclipse-specific files
+.classpath
+.project
+.settings/
+
+# Ignore Visual Studio Code specific files
+.vscode/
+
+# Ignore generated files by the application server
+/.metadata/
+/.recommenders/
+/.jsdtscope
+
+# Ignore Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Ignore Mac resource fork files
+._*
+
+# Ignore system-specific files
+.DS_Store
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Ignore compiled Java classes
+*.class
+
+# Ignore compiled JSP files
+*.jsp.class
+
+# Ignore Java and JSP build directories
+/target/
+/web/target/
+/build/
+
+# Ignore logs and temporary files
+/logs/
+*.log
+*.log.*
+*.tmp
+*.swp
