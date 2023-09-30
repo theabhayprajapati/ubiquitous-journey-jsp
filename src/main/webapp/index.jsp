@@ -44,5 +44,10 @@
         <a href="studyCenter.jsp">view</a>
     </li>
 </ul>
+<%--footer at extreme bottom--%>
+<div style="position: fixed; bottom: 0; width: 100%; text-align: center;">
+    <h3><a href="https://github.com/theabhayprajapati/ubiquitous-journey-jsp">Abhay Prajapati  rno: 41</a></h3>
+</div>
+
 </body>
 </html>
